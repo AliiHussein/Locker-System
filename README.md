@@ -9,7 +9,7 @@ Locker system for a safety.
 ## Demo
 
 ### To open the locker
-![](https://github.com/AliiHussein/Locker-System/tree/main/gifs/wrongpassword.gif)
+<p align="center"><img src="gifs/wrongpassword.gif"\></p>
 
 ### To change the password
 ![](https://github.com/AliiHussein/Locker-System/tree/main/gifs/Changepasswordeeprom.gif)
