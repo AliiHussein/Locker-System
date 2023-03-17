@@ -12,8 +12,8 @@ Locker system for a safety.
 <p align="center"><img src="gifs/wrongpassword.gif"\></p>
 
 ### To change the password
-![](https://github.com/AliiHussein/Locker-System/tree/main/gifs/Changepasswordeeprom.gif)
+<p align="center"><img src="gifs/Changepasswordeeprom.gif"\></p>
 
 ### To reset the password
-![](https://github.com/AliiHussein/Locker-System/tree/main/gifs/resetpassword.gif)
+<p align="center"><img src="gifs/resetpassword.gif"\></p>
 
